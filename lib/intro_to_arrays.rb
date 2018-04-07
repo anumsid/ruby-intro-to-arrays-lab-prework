@@ -1,3 +1,3 @@
-def instantiate
+def instantiate_new_array
   returns []
 end
