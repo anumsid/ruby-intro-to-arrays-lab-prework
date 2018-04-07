@@ -1,3 +1,4 @@
 def instantiate_new_array
-  returns []
+  []
+  return []
 end
