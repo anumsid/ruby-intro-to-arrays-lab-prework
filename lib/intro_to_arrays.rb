@@ -1,0 +1,3 @@
+def instantiate
+  returns []
+end
